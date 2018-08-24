@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/arb/takedown/www/templates/includes'
+let g:netrw_dirhist_2='/home/arb/takedown/www/templates/customer/netflix'
+let g:netrw_dirhist_3='/home/arb/takedown/www'
+let g:netrw_dirhist_4='/home/arb/takedown/www/ui_templates/parts/summary-section'
+let g:netrw_dirhist_5='/home/arb/takedown/lib'
